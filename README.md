@@ -1,6 +1,6 @@
 # Eventex
 
-Sistema de Eventos encomandos pela Morena.
+Sistema de Eventos encomendado pela Morena.
 
 [![Build Status](https://travis-ci.org/jasielserra/Event.svg?branch=master)](https://travis-ci.org/jasielserra/Event)
 [![Code Climate](https://codeclimate.com/github/jasielserra/Event/badges/gpa.svg)](https://codeclimate.com/github/jasielserra/Event)
